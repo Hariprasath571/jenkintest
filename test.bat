@@ -1,3 +1,3 @@
 @echo off
-python E:\LLM_FT\CI_CD\test.py
+python test.py
 pause
